@@ -16,12 +16,12 @@ Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche
 
 # Meine Vorkenntnisse
 
-##Bibliothekssysteme:
+## Bibliothekssysteme:
 * Sisis-Sunrise
 * Winmedio
 * Alma, ehemals Aleph
 
-##Programmiersprachen:
+## Programmiersprachen:
 * HTML
 * CSS
 * Python (vieles schon wieder vergessen, da wir dies im ersten Semester oder so mal anwendeten)
