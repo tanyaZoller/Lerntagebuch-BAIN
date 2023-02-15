@@ -1,6 +1,3 @@
----
-title: Lerntagebuch
----
 
 ## Mein Lerntagebuch im Fach BAIN
 
