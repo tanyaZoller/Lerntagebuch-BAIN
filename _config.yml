@@ -1,7 +1,7 @@
-title: Blog Bibliotheks- und Archivinformatik
+title: Bibliotheks- und Archivinformatik
 author: Tanya
 description: > # this means to ignore newlines
-  Mein Lerntagebuch für das Fach BAIN
+ 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
