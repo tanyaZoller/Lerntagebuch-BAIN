@@ -29,12 +29,12 @@ Herausforderungen.
 
 # Meine Vorkenntnisse
 
-_Bibliothekssysteme:_
+**Bibliothekssysteme:**
 * Sisis-Sunrise
 * Winmedio
 * Alma, ehemals Aleph
 
-_Programmiersprachen:_
+**Programmiersprachen:**
 * HTML
 * CSS
 * Python (vieles schon wieder vergessen, da wir dies im ersten Semester oder so mal anwendeten)
