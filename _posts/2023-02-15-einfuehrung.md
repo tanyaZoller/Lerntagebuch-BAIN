@@ -33,7 +33,7 @@ Herausforderungen.
 * Sisis-Sunrise
 * Winmedio
 * Alma, ehemals Aleph
-
+  
 **Programmiersprachen:**
 * HTML
 * CSS
