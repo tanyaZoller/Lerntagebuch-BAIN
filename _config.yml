@@ -1,5 +1,5 @@
 title: Bibliotheks- und Archivinformatik
 author: Tanya Zoller
 
-
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
