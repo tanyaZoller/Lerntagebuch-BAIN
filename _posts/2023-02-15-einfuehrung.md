@@ -14,6 +14,7 @@ Unser Dozent führte uns zuerst in das gemeinsame Dokument, welches mit HedgeDoc
 Von diesem System hatte ich noch nie etwas gehört und war gespannt, was man damit alles anstellen könnte.
 Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche Voraussetzungen zum Thema Erfahrungen und Erwartungen an den Kurs mitbrachte.
 
+
 # Beruflicher Werdegang
 
 Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
@@ -27,6 +28,7 @@ relativ einfach von Papierbriefen hin zu E-Mailbenachrichtigungen umgestellt wer
 Seit Anfang 2023 arbeite ich nun in der Bibliothek des Pädagogischen Zentrums Basel. Aleph wurde mittlerweile durch Alma abgelöst und stellte mich vor neue 
 Herausforderungen.
 
+
 # Meine Vorkenntnisse
 
 **Bibliothekssysteme:**
@@ -34,11 +36,13 @@ Herausforderungen.
 * Winmedio
 * Alma, ehemals Aleph
   
+  
 **Programmiersprachen:**
 * HTML
 * CSS
 * Python (vieles schon wieder vergessen, da wir dies im ersten Semester oder so mal anwendeten)
 * JavaScript (sollte ich können, kann es aber nicht wirklich)
+
 
 # Meine Erwartungen
 
