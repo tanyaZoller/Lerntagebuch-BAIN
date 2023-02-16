@@ -1,5 +1,5 @@
 ---
-title: "Tag 1"
+title: "Technische Grundlagen Teil 1"
 date: 2021-09-15
 ---
 
