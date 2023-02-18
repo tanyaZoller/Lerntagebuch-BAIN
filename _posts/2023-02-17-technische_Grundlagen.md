@@ -8,6 +8,7 @@ Zuerst erschien das Schaubild zu den Lerninhalten. Mein erster Gedanke war: was?
 Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
 
 # Schaubild  
+---
 <br>
 ![Schaubild von Felix Lohmeier](C:/Users/tanya/OneDrive/Desktop/Schaubild.png)
 
@@ -20,7 +21,8 @@ Standards haben, was ja nicht unbedingt das ist, was wir wollen. Also brauchen w
 Marc21 darzustellen. Das Solr ist dann der Suchindex und VuFind ist die Suchoberfläche.
 Also eigentlich alles ganz easy. Und dank dieses Tagebuches kann ich dieses neu gewonnene Wissen auch gut abspeichern und bei Bedarf wieder hervorholen.
 
-# Markdown  
+# Markdown 
+---
 <br>
 Nachdem das Schaubild erklärt war ging es weiter mit der Markdown-Language. In meinem Kopf poppten wieder Fragezeichen auf. Was ist das nun schon wieder? 
 Schnell stellte sich heraus, dass es eine Auszeichnungssprache ist, um Texte zu formatieren. 
@@ -41,14 +43,16 @@ Aber auch in meinem Nachschlagewerk "IT-Handbuch für Fachinformatiker\*innen" v
 Zuerst war mir jedoch nicht unbedingt klar, wieso wir diese Sprache brauchen würden. Doch nun, da ich das Lerntagebuch angefangen habe und die Markdown-Sprache
 tatsächlich anwende, macht das durchaus grossen Sinn.
 
-# HedgeDoc  
+# HedgeDoc 
+---
 <br>
 Als auch das Kapitel durchgeabreitet war, ging es im Unterricht um das Tool HedgeDoc und dessen Funktionen. Ich war gespannt, denn dieses Tool war mir noch nie
 untergekommen. Ich stellte mir etwas kompliziertes vor, doch dem war nicht so. Anhand des gemeinsamen Dokuemntes im Moodle-Kurs wurde uns das Tool in einfachen
 Schritten erklärt. Da wir später an diesem Morgen noch Übungen durchführen und uns in eine Liste eintragen sollten, wenn diese abgeschlossen war, konnte ich 
 das Tool gerade auch etwas praktisch kennenlernen, was bei mir immer mehr Sinn ergibt als die reine Theorie.
 
-# Meine Learnings bisher
+# Meine Learnings bisher  
+---
 <br>
 Ich habe versucht, die Tagebucheinträge optisch etwas schöner darzustellen. Dazu habe ich eine Trennlinie zwischen den Titeln und dem Text eingefügt. Das hat
 auch super funktioniert. Aber ich habe dann den Abstand zwischen der Trennlinie und dem Abschnitt darunter nicht hinbekommen. Also habe ich da etwas getrickts und
