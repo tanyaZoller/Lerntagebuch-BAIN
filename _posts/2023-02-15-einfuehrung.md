@@ -54,4 +54,5 @@ da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann a
 # Meine Entscheidung über die Darstellung des Lerntagebuches  
 
 Wieso habe ich mich für GitHub Pages entschieden, um das Lerntagebuch zu führen und nicht für ein Programm, das vielleicht etwas einfacher in der Anwendung ist?
-Ganz einfach. Ich mag Herausforderungen. Und jetzt, während des Studiums ist der ideale Zeitpunkt, um neue Systeme auszupropieren und herumzutesten. 
+Ganz einfach. Ich mag Herausforderungen. Und jetzt, während des Studiums ist der ideale Zeitpunkt, um neue Systeme auszupropieren und zu testen. Obwohl eine 
+gewisse Abneigung gegenüber GitHub besteht, möchte ich dieses Lerntagebuch dennoch, oder gerade deswegen, mit diesem Programm erstellen.
