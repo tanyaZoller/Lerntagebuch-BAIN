@@ -15,9 +15,10 @@ Von diesem System hatte ich noch nie etwas gehört und war gespannt, was man dam
 Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche Voraussetzungen zum Thema Erfahrungen und Erwartungen an den Kurs mitbrachte.
   
 
-# Beruflicher Werdegang...
----  
-...Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
+# Beruflicher Werdegang
+--- \
+
+Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
 dem Programm Sisis-Sunrise. 
 Nach der Lehre zog es mich weiter an das Gymnasium Muttenz. Dort sprang ich für die Mitarbeiterinnen ein, welche länger eine Abwesenheit hatten.
 Nach fast drei Jahren ging ich dann an das Bildungszentrum Gesundheit, wo ich auch zum ersten Mal mit Aleph in Kontakt kam. Ich lernte dort die Katalogisierung nach
