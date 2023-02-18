@@ -13,7 +13,7 @@ von Bain auseinandergesetzt. Somit liess ich mich völlig überraschen.
 Unser Dozent führte uns zuerst in das gemeinsame Dokument, welches mit HedgeDoc erstellt wurde ein. Somit lernte ich direkt zu Beginn des Moduls etwas völlig Neues.
 Von diesem System hatte ich noch nie etwas gehört und war gespannt, was man damit alles anstellen könnte.
 Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche Voraussetzungen zum Thema Erfahrungen und Erwartungen an den Kurs mitbrachte.
-  
+<br>
 
 # Beruflicher Werdegang
 ---
@@ -28,7 +28,7 @@ Winmedio kennen. Das System überzeugte mich dadurch, dass viele Einstellungen o
 relativ einfach von Papierbriefen hin zu E-Mailbenachrichtigungen umgestellt werden.
 Seit Anfang 2023 arbeite ich nun in der Bibliothek des Pädagogischen Zentrums Basel. Aleph wurde mittlerweile durch Alma abgelöst und stellte mich vor neue 
 Herausforderungen.
-  
+<br> 
 
 # Meine Vorkenntnisse
 ---  
@@ -44,7 +44,7 @@ Herausforderungen.
 * CSS
 * Python (vieles schon wieder vergessen, da wir dies im ersten Semester oder so mal anwendeten)
 * JavaScript (sollte ich können, kann es aber nicht wirklich)
-  
+<br> 
 
 # Meine Erwartungen
 ---  
@@ -53,7 +53,7 @@ Ich kannte bisher jedoch nur die "Anwenderseite" von Bibliothekssystemen.
 Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, wenn eine Suchabfrage eingegegeben wird, wusste ich noch nicht.
 Ich hoffe, mit dem Modul auch einen Einblick hinter die Kulisse von den Bibliothekssystemen zu bekommen. Mich interessieren vor allem die Bibliothekssysteme, 
 da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann auch die Probleme, die Rapido den Alma-Anwendern beschert etwas besser.
-  
+<br>  
   
 # Meine Entscheidung über die Darstellung des Lerntagebuches  
 ---  
