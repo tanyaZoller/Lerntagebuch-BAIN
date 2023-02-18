@@ -6,6 +6,7 @@ date: 2023-02-17
 Nach der Einführung ins Fach begann die Einführung in die Technischen Grundlagen der Bibliotheks- und Archivinformatik. Nun wurde es konkreter.  
 Zuerst erschien das Schaubild zu den Lerninhalten. Mein erster Gedanke war: was? Das werde ich doch nie verstehen. Denn auf dem Schaubild standen lauter 
 Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
+<br>
 
 # Schaubild  
 ---
@@ -20,6 +21,7 @@ Marc21, EAD, Dublincore sind Metadatenstandards, in welchen die heruntergeladene
 Standards haben, was ja nicht unbedingt das ist, was wir wollen. Also brauchen wir MarcEdit. Damit können wir die drei Standards zu einem zusammenfügen und im 
 Marc21 darzustellen. Das Solr ist dann der Suchindex und VuFind ist die Suchoberfläche.
 Also eigentlich alles ganz easy. Und dank dieses Tagebuches kann ich dieses neu gewonnene Wissen auch gut abspeichern und bei Bedarf wieder hervorholen.
+<br>
 
 # Markdown 
 ---
@@ -42,6 +44,7 @@ Aber auch in meinem Nachschlagewerk "IT-Handbuch für Fachinformatiker\*innen" v
 
 Zuerst war mir jedoch nicht unbedingt klar, wieso wir diese Sprache brauchen würden. Doch nun, da ich das Lerntagebuch angefangen habe und die Markdown-Sprache
 tatsächlich anwende, macht das durchaus grossen Sinn.
+<br>
 
 # HedgeDoc 
 ---
@@ -50,6 +53,7 @@ Als auch das Kapitel durchgeabreitet war, ging es im Unterricht um das Tool Hedg
 untergekommen. Ich stellte mir etwas kompliziertes vor, doch dem war nicht so. Anhand des gemeinsamen Dokuemntes im Moodle-Kurs wurde uns das Tool in einfachen
 Schritten erklärt. Da wir später an diesem Morgen noch Übungen durchführen und uns in eine Liste eintragen sollten, wenn diese abgeschlossen war, konnte ich 
 das Tool gerade auch etwas praktisch kennenlernen, was bei mir immer mehr Sinn ergibt als die reine Theorie.
+<br>
 
 # Meine Learnings bisher  
 ---
