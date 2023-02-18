@@ -9,7 +9,7 @@ Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
 
 # Schaubild  
 
-![Schaubild von Felix Lohmeier, entnommen von https://pad.gwdg.de/Nj7bLYj_QHqaP9o29V0yGw](https://1drv.ms/u/s!Aohfjb68v1MQgaswJUt2Erbr0IZqBg?e=FJY9dm)
+![Schaubild von Felix Lohmeier, entnommen von https://pad.gwdg.de/Nj7bLYj_QHqaP9o29V0yGw](C:\Users\tanya\OneDrive\Studium\8. Semester\BAIN\Schaubild.png)
 
 Doch der Dozent erklärte das Schaubild Schritt für Schritt. Und bald war mir klar: so kompliziert wie es aussieht, ist es nicht. Mein erster aha-Effekt in diesem
 Kurs.
