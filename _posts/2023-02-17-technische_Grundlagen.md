@@ -48,3 +48,14 @@ untergekommen. Ich stellte mir etwas kompliziertes vor, doch dem war nicht so. A
 Schritten erklärt. Da wir später an diesem Morgen noch Übungen durchführen und uns in eine Liste eintragen sollten, wenn diese abgeschlossen war, konnte ich 
 das Tool gerade auch etwas praktisch kennenlernen, was bei mir immer mehr Sinn ergibt als die reine Theorie.
 
+# GitHub  
+
+Und dann kam das Thema, vor dem ich mich am meisten fürchtete. GitHub. Wieso ich mich so vor dem fürchte, fragt ihr euch? Weil ich nicht unbedingt gute 
+Erfahrungen damit gemacht habe. Wir hatten in einem vorgherigen Semester Programmieren und sollten ein gemeinsames Projekt durchführen. Die Änderungen sollten, wie
+halt von GitHub angedacht, auf dieser Plattform ausgetauscht werden. Leider war die Einführung in GitHub nicht unbedingt gelungen. Die Verwirrung, wann ich wo was
+machen sollte, komplett. Und so machte das keinen wirklichen Spass. Leider benötigten wir GitHub in einem darauffolgenden Semester noch einmal, diesmal etwas 
+intensiver als zuvor. Und wieder funktionierte das mit dem Pushen und Pullen bei mir absolut nicht. Irgendwann, gegen Ende des Semesters hatte es dann doch, aus 
+welchen Gründen auch immer, funktioniert. Es war aber ein steiniger Weg zum Ziel. Daher war die Freude, wieder mit GitHub zu arbeiten, nicht unbedingt die grösste.
+Doch dieses Mal war die Einführung gelungen. Ich verstand plötzlich, was GitHub macht und wozu man es nutzen kann. Und hier war er. Der zweite grosse aha-Moment an
+diesem Tag. 
+Und dann war der Morgen vorbei, der Kopf rauchte und die Mittagspause rief.
