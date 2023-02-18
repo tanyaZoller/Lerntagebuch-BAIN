@@ -13,7 +13,7 @@ von Bain auseinandergesetzt. Somit liess ich mich völlig überraschen.
 Unser Dozent führte uns zuerst in das gemeinsame Dokument, welches mit HedgeDoc erstellt wurde ein. Somit lernte ich direkt zu Beginn des Moduls etwas völlig Neues.
 Von diesem System hatte ich noch nie etwas gehört und war gespannt, was man damit alles anstellen könnte.
 Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche Voraussetzungen zum Thema Erfahrungen und Erwartungen an den Kurs mitbrachte.
-<br>
+<br>  
 
 # Beruflicher Werdegang
 ---
