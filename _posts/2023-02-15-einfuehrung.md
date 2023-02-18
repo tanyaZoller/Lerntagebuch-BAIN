@@ -16,8 +16,8 @@ Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche
   
 
 # Beruflicher Werdegang
---- \
-
+---
+  
 Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
 dem Programm Sisis-Sunrise. 
 Nach der Lehre zog es mich weiter an das Gymnasium Muttenz. Dort sprang ich für die Mitarbeiterinnen ein, welche länger eine Abwesenheit hatten.
