@@ -32,7 +32,7 @@ Herausforderungen.
 
 # Meine Vorkenntnisse
 ---  
-
+<br>
 **Bibliothekssysteme:**
 * Sisis-Sunrise
 * Winmedio
@@ -48,7 +48,7 @@ Herausforderungen.
 
 # Meine Erwartungen
 ---  
-
+<br>
 Ich kannte bisher jedoch nur die "Anwenderseite" von Bibliothekssystemen. 
 Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, wenn eine Suchabfrage eingegegeben wird, wusste ich noch nicht.
 Ich hoffe, mit dem Modul auch einen Einblick hinter die Kulisse von den Bibliothekssystemen zu bekommen. Mich interessieren vor allem die Bibliothekssysteme, 
@@ -57,7 +57,7 @@ da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann a
   
 # Meine Entscheidung über die Darstellung des Lerntagebuches  
 ---  
-
+<br>
 Wieso habe ich mich für GitHub Pages entschieden, um das Lerntagebuch zu führen und nicht für ein Programm, das vielleicht etwas einfacher in der Anwendung ist?
 Ganz einfach. Ich mag Herausforderungen. Und jetzt, während des Studiums ist der ideale Zeitpunkt, um neue Systeme auszupropieren und zu testen. Obwohl eine 
 gewisse Abneigung gegenüber GitHub besteht, möchte ich dieses Lerntagebuch dennoch, oder gerade deswegen, mit diesem Programm erstellen.
