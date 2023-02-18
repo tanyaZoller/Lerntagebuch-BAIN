@@ -8,7 +8,7 @@ Zuerst erschien das Schaubild zu den Lerninhalten. Mein erster Gedanke war: was?
 Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
 
 # Schaubild  
-
+<br>
 ![Schaubild von Felix Lohmeier](C:/Users/tanya/OneDrive/Desktop/Schaubild.png)
 
 Doch der Dozent erklärte das Schaubild Schritt für Schritt. Und bald war mir klar: so kompliziert wie es aussieht, ist es nicht. Mein erster aha-Effekt in diesem
@@ -21,7 +21,7 @@ Marc21 darzustellen. Das Solr ist dann der Suchindex und VuFind ist die Suchober
 Also eigentlich alles ganz easy. Und dank dieses Tagebuches kann ich dieses neu gewonnene Wissen auch gut abspeichern und bei Bedarf wieder hervorholen.
 
 # Markdown  
-
+<br>
 Nachdem das Schaubild erklärt war ging es weiter mit der Markdown-Language. In meinem Kopf poppten wieder Fragezeichen auf. Was ist das nun schon wieder? 
 Schnell stellte sich heraus, dass es eine Auszeichnungssprache ist, um Texte zu formatieren. 
 Nun kenne ich also nicht nur HTML, CSS, eeetwas Javascript und noch weniger Python. Jetzt lerne ich auch noch Markdown kenne. Worauf ich mich wirklich freute. 
@@ -42,20 +42,16 @@ Zuerst war mir jedoch nicht unbedingt klar, wieso wir diese Sprache brauchen wü
 tatsächlich anwende, macht das durchaus grossen Sinn.
 
 # HedgeDoc  
-
+<br>
 Als auch das Kapitel durchgeabreitet war, ging es im Unterricht um das Tool HedgeDoc und dessen Funktionen. Ich war gespannt, denn dieses Tool war mir noch nie
 untergekommen. Ich stellte mir etwas kompliziertes vor, doch dem war nicht so. Anhand des gemeinsamen Dokuemntes im Moodle-Kurs wurde uns das Tool in einfachen
 Schritten erklärt. Da wir später an diesem Morgen noch Übungen durchführen und uns in eine Liste eintragen sollten, wenn diese abgeschlossen war, konnte ich 
 das Tool gerade auch etwas praktisch kennenlernen, was bei mir immer mehr Sinn ergibt als die reine Theorie.
 
-# GitHub  
-
-Und dann kam das Thema, vor dem ich mich am meisten fürchtete. GitHub. Wieso ich mich so vor dem fürchte, fragt ihr euch? Weil ich nicht unbedingt gute 
-Erfahrungen damit gemacht habe. Wir hatten in einem vorgherigen Semester Programmieren und sollten ein gemeinsames Projekt durchführen. Die Änderungen sollten, wie
-halt von GitHub angedacht, auf dieser Plattform ausgetauscht werden. Leider war die Einführung in GitHub nicht unbedingt gelungen. Die Verwirrung, wann ich wo was
-machen sollte, komplett. Und so machte das keinen wirklichen Spass. Leider benötigten wir GitHub in einem darauffolgenden Semester noch einmal, diesmal etwas 
-intensiver als zuvor. Und wieder funktionierte das mit dem Pushen und Pullen bei mir absolut nicht. Irgendwann, gegen Ende des Semesters hatte es dann doch, aus 
-welchen Gründen auch immer, funktioniert. Es war aber ein steiniger Weg zum Ziel. Daher war die Freude, wieder mit GitHub zu arbeiten, nicht unbedingt die grösste.
-Doch dieses Mal war die Einführung gelungen. Ich verstand plötzlich, was GitHub macht und wozu man es nutzen kann. Und hier war er. Der zweite grosse aha-Moment an
-diesem Tag. 
-Und dann war der Morgen vorbei, der Kopf rauchte und die Mittagspause rief.
+# Meine Learnings bisher
+<br>
+Ich habe versucht, die Tagebucheinträge optisch etwas schöner darzustellen. Dazu habe ich eine Trennlinie zwischen den Titeln und dem Text eingefügt. Das hat
+auch super funktioniert. Aber ich habe dann den Abstand zwischen der Trennlinie und dem Abschnitt darunter nicht hinbekommen. Also habe ich da etwas getrickts und
+auf den Befehl \<br> zurückgegriffen. Dieser fügt im HTML einen Break ein. Und das hat hier auch funktioniert.
+Ausserdem wollte ich das Schaubild, welches im Unterricht gezeigt wurde, einfügen. Das habe ich aber bis zum 18.2.23 leider noch nicht geschafft. Da bleibe ich
+aber definitiv dran.
