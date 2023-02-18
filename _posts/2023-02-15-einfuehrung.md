@@ -15,7 +15,7 @@ Von diesem System hatte ich noch nie etwas gehört und war gespannt, was man dam
 Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche Voraussetzungen zum Thema Erfahrungen und Erwartungen an den Kurs mitbrachte.
   
 
-# Beruflicher Werdegang
+# Beruflicher Werdegang...
 ---  
 ...Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
 dem Programm Sisis-Sunrise. 
@@ -32,7 +32,7 @@ Herausforderungen.
 # Meine Vorkenntnisse
 ---  
 
-...**Bibliothekssysteme:**
+**Bibliothekssysteme:**
 * Sisis-Sunrise
 * Winmedio
 * Alma, ehemals Aleph
@@ -48,7 +48,7 @@ Herausforderungen.
 # Meine Erwartungen
 ---  
 
-...Ich kannte bisher jedoch nur die "Anwenderseite" von Bibliothekssystemen. 
+Ich kannte bisher jedoch nur die "Anwenderseite" von Bibliothekssystemen. 
 Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, wenn eine Suchabfrage eingegegeben wird, wusste ich noch nicht.
 Ich hoffe, mit dem Modul auch einen Einblick hinter die Kulisse von den Bibliothekssystemen zu bekommen. Mich interessieren vor allem die Bibliothekssysteme, 
 da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann auch die Probleme, die Rapido den Alma-Anwendern beschert etwas besser.
@@ -57,6 +57,6 @@ da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann a
 # Meine Entscheidung über die Darstellung des Lerntagebuches  
 ---  
 
-...Wieso habe ich mich für GitHub Pages entschieden, um das Lerntagebuch zu führen und nicht für ein Programm, das vielleicht etwas einfacher in der Anwendung ist?
+Wieso habe ich mich für GitHub Pages entschieden, um das Lerntagebuch zu führen und nicht für ein Programm, das vielleicht etwas einfacher in der Anwendung ist?
 Ganz einfach. Ich mag Herausforderungen. Und jetzt, während des Studiums ist der ideale Zeitpunkt, um neue Systeme auszupropieren und zu testen. Obwohl eine 
 gewisse Abneigung gegenüber GitHub besteht, möchte ich dieses Lerntagebuch dennoch, oder gerade deswegen, mit diesem Programm erstellen.
