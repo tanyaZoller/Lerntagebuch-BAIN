@@ -9,7 +9,7 @@ Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
 
 # Schaubild  
 
-![Schaubild von Felix Lohmeier](C:\Users\tanya\OneDrive\Desktop\Schaubild.png)
+![Schaubild von Felix Lohmeier](C:/Users/tanya/OneDrive/Desktop/Schaubild.png)
 
 Doch der Dozent erklärte das Schaubild Schritt für Schritt. Und bald war mir klar: so kompliziert wie es aussieht, ist es nicht. Mein erster aha-Effekt in diesem
 Kurs.
