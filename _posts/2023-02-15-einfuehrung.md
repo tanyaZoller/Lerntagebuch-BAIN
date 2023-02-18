@@ -51,8 +51,7 @@ Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, w
 Ich hoffe, mit dem Modul auch einen Einblick hinter die Kulisse von den Bibliothekssystemen zu bekommen. Mich interessieren vor allem die Bibliothekssysteme, 
 da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann auch die Probleme, die Rapido den Alma-Anwendern beschert etwas besser.
 
-# Mein Feedback zur Einführung
+# Meine Entscheidung über die Darstellung des Lerntagebuches  
 
-Als ich sah, dass wieder GitHub an die Reihe kam, machte ich mir doch Sorgen. Denn GitHub hatte mir in der Vergangenheit viel Kopfzerbrechen und sicherlich auch
-einige graue Haare beschert. Jedoch wurde in diesem Modul GitHub so verständlich erklärt, dass sich diese Sorgen in Luft auflösten. Ich verstand das erste Mal
-wirklich, was ein Pull und ein Push bewirkten und wie in GitHub zusammengearbeitet werden kann.
+Wieso habe ich mich für GitHub Pages entschieden, um das Lerntagebuch zu führen und nicht für ein Programm, das vielleicht etwas einfacher in der Anwendung ist?
+Ganz einfach. Ich mag Herausforderungen. Und jetzt, während des Studiums ist der ideale Zeitpunkt, um neue Systeme auszupropieren und herumzutesten. 
