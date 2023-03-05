@@ -31,6 +31,7 @@ jedes Mal rausfliegen, wenn wir zu lange nicht daran arbeiteten. Da hat sich bei
 <br>
 
 # OpenRefine
+---
 <br>
 Und dann kamen wir zum Kern dieser Vorlesung. OpenRefine. Was ist das, was macht das. Alles Fragen, die nun geklärt werden sollten. Ich war gespannt, da ich es, wie oben 
 erwähnt, noch überhaupt nicht kannte und mir auch nichts darunter vorstellen konnte.
