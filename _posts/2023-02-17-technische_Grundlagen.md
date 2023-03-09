@@ -11,7 +11,7 @@ Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
 # Schaubild  
 ---
 <br>
-![Schaubild von Felix Lohmeier](C:/Users/tanya/OneDrive/Desktop/Schaubild.png)
+![Schaubild von Felix Lohmeier](https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/Schaubild.png?raw=true)
 
 Doch der Dozent erklärte das Schaubild Schritt für Schritt. Und bald war mir klar: so kompliziert wie es aussieht, ist es nicht. Mein erster aha-Effekt in diesem
 Kurs.
