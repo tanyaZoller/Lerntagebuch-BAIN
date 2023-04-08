@@ -18,7 +18,7 @@ heisst das auch, dass ich auf den Unterricht und dessen Inhalt nur wenig bis gar
 Immer wieder habe ich von ChatGPT gehört und in den Nachrichten davon gelesen. Aber wirklich damit auseinander gesetzt habe ich mich noch nicht, da ich dafür irgendwie
 auch nie die Zeit fand. Heute soll sich das ändern. Beginnen wir von vorne. 
 
-## Was ist ChatGPT und wie funktioniert es?
+**Was ist ChatGPT und wie funktioniert es?**
 <br>
 ChatGPT wurde von OpenAI entwickelt und ist ein sogenannter Chatbot. Dieser soll Fragen beantworten, Aufsätze schreiben aber auch programmieren. Das besondere ist,
 dass ChatGPT frei zugänglich ist.
@@ -29,7 +29,7 @@ wurden immer wieder wiederholt und so der Chatbot verfeinert (Quelle: https://op
 
 ![ChatGPT](https://raw.githubusercontent.com/tanyaZoller/Lerntagebuch-BAIN/a5f9c19418d12879dbb479d16858abea5ea8823e/_img/ChatGPT_Diagram.svg)
 
-## Diskussion zu ChatGPT
+**Diskussion zu ChatGPT**
 <br>
 Doch der Chatbot ist nicht bei allen beliebt. Eine Überschrift von der NZZ am 31.3.23 lautet: "Italiens Datenschutzbehörde verbietet Chat-GPT". In dem Artikel heisst
 es nicht nur, dass ChatGPT verboten sei, es seien sogar schon Ermittlungen eingeleitet worden (Quelle: https://www.nzz.ch/technologie/italiens-datenschutzbehoerde-sperrt-chat-gpt-ld.1732782).
