@@ -26,6 +26,7 @@ Die Startseite von ATOM, nach dem Login
 ![Versuch einer Aufnahme](https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/ATOM.png?raw=true)
 Der Versuch einer Aufnahme
 <br>
+<br>
 
 # Feedback generell zum Erfassen von Archivmaterialien
 <br>
