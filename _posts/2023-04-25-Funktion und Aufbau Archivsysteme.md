@@ -18,7 +18,7 @@ Die Aufgabe eines Archives besteht darin, Verwaltungsschriftgut zu sammeln. Dabe
 Im Gegensatz zu den Bibliotheken besitzen Archive hauptsächlich Unikate. In Bibliotheken kommt es nicht selten vor, dass von einem Buch mehrere Exemplare in den 
 Regalen zu finden sind.
 <br>
-Es gibt zwei verschiedene Überlieferungsmethoden, die hier kurz verglichen werden sollen:
+Es gibt zwei verschiedene Überlieferungsmethoden, die hier kurz verglichen werden sollen:<br>
 
 Pertinenzprinzip:
 * "Zugehörigkeit" 
