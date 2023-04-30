@@ -4,10 +4,10 @@ date: 2023-04-25
 ---
 
 In diesen vier Lektionen ging es um den Aufbau und die Funktionsweise von Archivsystemen. Unter anderem standen folgende Punkte auf der heutigen Todo-Liste:
-*Metadatenstandards in Archiven
-*Übung in einem Archivkatalog
-*ArchiveSpace
-*Marktüberblick Archivsysteme
+* Metadatenstandards in Archiven
+* Übung in einem Archivkatalog
+* ArchiveSpace
+* Marktüberblick Archivsysteme
 
 # Metadatenstandards in Archiven 
 ---
@@ -33,6 +33,7 @@ Provenienzprinzip:
 Um Archivmaterial zu verzeichnen, gibt es das ISAD(G)-Regelwerk und EAD.
 (Quelle des Abschnitts: Niederhäuser, P. (2004) Merkblätter des Bundesamtes für Bevölkerungsschutz, Kulturgüterschutz. admin.ch)
 <br>
+<br>
 
 ## ISAD(G)
 <br>
@@ -46,6 +47,7 @@ Das ISAD(G)-Regelwerk besteht aus 26 Verzeichniselementen in 7 Bereichen:
    Dies ist ein wichtiger Punkt, vor allem wenn sie von den Archivaren kommen. Denn diese besitzen oft Expertenwissen über den Bestand, da sie diesen ja 
    genau anschauen und bearbeiten. 
 7. Kontrolle
+<br>
 <br>
 
 
@@ -63,6 +65,7 @@ Dadurch ist die Darstellung von komplexeren Zusammenhängen möglich.
 Laut der Quelle Wikipedia gibt es eine Kritik von InterPARES Trust. Dabei wird die Logik des Modells aber auch ein Mangel an Transparenz bei der Entwicklung des Standards
 bemängelt.
 (Quelle: https://de.wikipedia.org/wiki/Records_in_Contexts)
+<br>
 <br>
 
 ## EAD
