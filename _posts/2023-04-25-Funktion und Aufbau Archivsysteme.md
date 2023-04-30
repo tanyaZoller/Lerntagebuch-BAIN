@@ -25,6 +25,7 @@ Pertinenzprinzip:
 * Schriftgut = thematisch geordnet
 * z.B.: nach Wasser, Handel, etc.
 <br>
+
 Provenienzprinzip:
 * "Herkunft"
 * Schriftgut = nach Herkunft geordnet
@@ -46,9 +47,9 @@ Das ISAD(G)-Regelwerk besteht aus 26 Verzeichniselementen in 7 Bereichen:
    genau anschauen und bearbeiten. 
 7. Kontrolle
 <br>
-
-## RIC
 <br>
+## RIC
+
 ISAD(G) hatten wir während des Studiums schon ein paar Mal gehört und auch schon angeschaut. Aus diesem Grund hat mich dieses Thema nich wahnsinnig abgeholt. Viel 
 spannender fand ich den neuen Standard "RIC" (Records in Context). Von dem habe ich noch nie gehört und daher habe ich mir vorgenommen, diesen etwas genauer 
 anzuschauen.
@@ -72,7 +73,7 @@ EAD ist ein XML-basierter Standard und besteht aus ca. 145 Elementen/Properties.
 * hierarchischer Aufbau der Findmittel mit unterschiedlich detaillierten Ebenen abbilden
 * Angaben der übergeordneten Ebenen an die unteren Ebenen weitergeben
 * elementspezifisches Retrievel ermöglichen.
-<br>
+
 EAD wird mit der DTD (Document Type Definition) beschrieben. XML hat die Vorteile, dass sie ohne weitere Software vom Computer gelesen werden kann, Plattformunabhängig ist
 und für den Datenaustausch und den Einsatz in verschiedenen Kontexten geeignet ist.
 (Quelle: Moretto, N. (2014). Encoded Archival Descritpion (EAD). KIM Workshop 2014, Mannheim)
