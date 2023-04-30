@@ -20,7 +20,7 @@ Regalen zu finden sind.
 <br>
 Es gibt zwei verschiedene Überlieferungsmethoden, die hier kurz verglichen werden sollen:
 
-Pertinenzprinzip
+Pertinenzprinzip:
 * "Zugehörigkeit" 
 * Schriftgut = thematisch geordnet
 * z.B.: nach Wasser, Handel, etc.
