@@ -47,9 +47,10 @@ Das ISAD(G)-Regelwerk besteht aus 26 Verzeichniselementen in 7 Bereichen:
    genau anschauen und bearbeiten. 
 7. Kontrolle
 <br>
-<br>
-## RIC
 
+
+## RIC
+<br>
 ISAD(G) hatten wir während des Studiums schon ein paar Mal gehört und auch schon angeschaut. Aus diesem Grund hat mich dieses Thema nich wahnsinnig abgeholt. Viel 
 spannender fand ich den neuen Standard "RIC" (Records in Context). Von dem habe ich noch nie gehört und daher habe ich mir vorgenommen, diesen etwas genauer 
 anzuschauen.
