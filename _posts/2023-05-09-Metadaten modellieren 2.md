@@ -29,6 +29,8 @@ Das Harvesting findet über GET oder POST-Anfragen statt. Jede dieser Anfragen e
 * optional die Pfadangabe
 * eine Verb-Anweisung
 * mehrere optionale Argumente
+
+
 (Quelle: https://libtechlaunchpad.com/2017/02/13/oai-pmh-basics-and-resources/)
 
 # ETL-Prozesse
