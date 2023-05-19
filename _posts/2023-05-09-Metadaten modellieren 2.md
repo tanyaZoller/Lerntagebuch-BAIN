@@ -66,6 +66,8 @@ Es werden bei der Transformation noch weitere Schritte notwendig, welche hier ni
 Bei diesem Schritt werden die vereinheitlichten Daten in das Zielsystem überführt. Daten, welche den vorherigen Transformationsschritt nicht erfolgreich abgeschlossen haben, dürfen nicht in ein produktives System 
 überführt werden. Beim Schritt des Ladens muss jedoch darauf geachtet werden, dass das laufende System nicht ausfällt, während die neuen Daten eingespeist werden. Das würde ja sonst bedeuten, dass Swisscovery jedes mal 
 bei der Einspeisung neuer Daten nicht genutzt werden könnte.
+
+
 (Quelle Abschnitt ETL-Prozesse: https://it-in-bibliotheken.de/metadaten.html#datenverarbeitung)
 
 In vorherigen Modulen war bereits Harvesting, etc. ein Thema. Jedoch war es für mich immer schwer zu verstehen. Dank des ETL-Prozesses und des Handbuches für IT in Bibliotheken habe ich jetzt aber deutlich besser
