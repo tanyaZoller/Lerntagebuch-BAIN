@@ -46,17 +46,20 @@ Im folgenden Bild wird der Prozess graphisch dargestellt:
 
 Doch was bedeuten diese drei Schritte Extraktion, Transformation und Laden? Hier möchte ich ganz kurz darauf eingehen.
 
-**Extraktion** 
+**Extraktion**
+<br>
 Das Ziel dieses Schrittes ist die Auswahl und der Abzug von relevanten Daten aus verschiedenen Quellen. Das ist das Harvesting, welches weiter oben schon einmal erwähnt wurde. Der Prozess des Harvesting kann entweder
 manuell oder aber automatisiert ausgelöst werden.
 Als Datenquellen können Dateien, Datenbanken, Schnittstellen oder Webseiten dienen. 
 <br>
 **Transformation**
+<br>
 Bei diesem Schritt sollen alle Daten in ein einheitliches Format übertragen werden. Beim ETL-Prozess wird das Zielformat als Schema bezeichnet. Die Vereinheitlichung des Schemas wird als Mapping bezeichnet und ist einer
 der wesentlichen Schritte jeder Datenkonvertierung. Um den Transformationsaufwand zu reduzieren einigte man sich auf Standards wie MARC21.
 Es werden bei der Transformation noch weitere Schritte notwendig, welche hier nicht aufgeführt werden.
 <br>
 **Laden**
+<br>
 Bei diesem Schritt werden die vereinheitlichten Daten in das Zielsystem überführt. Daten, welche den vorherigen Transformationsschritt nicht erfolgreich abgeschlossen haben, dürfen nicht in ein produktives System 
 überführt werden. Beim Schritt des Ladens muss jedoch darauf geachtet werden, dass das laufende System nicht ausfällt, während die neuen Daten eingespeist werden. Das würde ja sonst bedeuten, dass Swisscovery jedes mal 
 bei der Einspeisung neuer Daten nicht genutzt werden könnte.
