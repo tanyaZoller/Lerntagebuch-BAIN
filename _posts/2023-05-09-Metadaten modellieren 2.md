@@ -50,8 +50,9 @@ Doch was bedeuten diese drei Schritte Extraktion, Transformation und Laden? Hier
 <br>
 Das Ziel dieses Schrittes ist die Auswahl und der Abzug von relevanten Daten aus verschiedenen Quellen. Das ist das Harvesting, welches weiter oben schon einmal erwähnt wurde. Der Prozess des Harvesting kann entweder
 manuell oder aber automatisiert ausgelöst werden.
-Als Datenquellen können Dateien, Datenbanken, Schnittstellen oder Webseiten dienen. 
-<br>
+Als Datenquellen können Dateien, Datenbanken, Schnittstellen oder Webseiten dienen.
+
+
 **Transformation**
 <br>
 Bei diesem Schritt sollen alle Daten in ein einheitliches Format übertragen werden. Beim ETL-Prozess wird das Zielformat als Schema bezeichnet. Die Vereinheitlichung des Schemas wird als Mapping bezeichnet und ist einer
