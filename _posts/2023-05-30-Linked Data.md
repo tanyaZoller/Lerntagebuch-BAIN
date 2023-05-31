@@ -20,7 +20,7 @@ Die DNB (Deutsche Nationalbibliothek) ist Mitglied der "Early Implementers Group
 Katalogisiert eine Bibliothekarin oder ein Bibliothekar ein Medium, in unserem Fall nun ein Buch, dann entsteht ein Datensatz mit einigen Informationen darin. Dazu gehören der/die AutorIn, der Titel des Werks, die Signatur, 
 etc. Bibframe spaltet dieses Informationen in drei Teile auf, welche auf dem untenstehenden Modell zu finden sind:
 
-![Bibframe-Modell]https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/Bibframe_Modell.jpg?raw=true
+![Bibframe-Modell](https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/Bibframe_Modell.jpg?raw=true)
 
 Um die drei Stufen etwas besser erklären zu können nehmen wir als Beispiel das Werk Harry Potter.
 
@@ -47,7 +47,7 @@ Wikipedia, Wiktionary, etc.
 Die Sammlung bei Wikidata besteht mehrheitlich aus Datenobjekten. Dabei erhält jedes Datenobjekt eine eindeutige Identifizierung, eingeleitet durch den Buchstaben Q und eine fortlaufende Nummer. Jedes Datenobjekt erhält
 eine Bezeichnung und eine Beschreibung.
 
-![Datenobjekt in Wikidata]https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/Datamodel_in_Wikidata_de.svg.png?raw=true
+![Datenobjekt in Wikidata](https://github.com/tanyaZoller/Lerntagebuch-BAIN/blob/master/_img/Datamodel_in_Wikidata_de.svg.png?raw=true)
 
 Im Unterricht ging es dann darum, wie Daten importiert und bei Wikidata angeschaut werden können. Ich muss aber ehrlicherweise gestehen, dass ich da den Faden verloren habe und diesen Prozess hier nicht wiedergeben kann.
 Aufgrund der Bachelor-Thesis und anderen Projekten, die noch abgeschlossen werden müssen, bleibt leider keine Zeit, um dies noch einmal durchzuspielen. 
