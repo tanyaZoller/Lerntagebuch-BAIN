@@ -37,7 +37,7 @@ Ein weiteres Diskussionsthema stellen die Schulen dar. Werden dort die Hausarbei
 die FHGR damit um? Ich würde sagen: es bleibt spannend. Und ich werde mich sicher noch vertiefter damit auseinandersetzen.
 
 <br>
-**Z39.50
+# Netzwerkprotokoll Z39.50
 ---
 <br>
 Die Informationen zu Z30.50 habe ich aus Wikipedia. Das ist vielleicht nicht die beste Quelle, aber ich habe so irgendwie gar nicht viel anderes gefunden, das ich 
