@@ -45,3 +45,5 @@ Git dient zur Versionskontrolle. Mi diesem Punkt hatte ich in der Vergangenheit 
 man das Prinzip dahinter verstanden hat. 
 Github ist die Plattform, auf der ein Git-Repository hochgeladen werden kann. Der Vorteil von Git: man kann jede Veränderung nachvollziehen und so auch Fehler finden. Aber eben, ich finde die Verwendung sehr 
 kompliziert. Man muss Pushen, Committen, etc. Da hatte ich ehrlich gesagt den Faden verloren.
+
+(Quelle: https://pad.gwdg.de/Nj7bLYj_QHqaP9o29V0yGw)
