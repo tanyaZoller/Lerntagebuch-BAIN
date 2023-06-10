@@ -34,6 +34,7 @@ Hier folgen einige Befehle, die wichtig sind:
 - ls    =   Auflistung des Inhalts des Directories
 - ls -l =   Eine Liste mit Inhalten, die eher unserem Explorer auf dem Computer ähneln.
 - cd    =   Wechsel des Directories. Das heisst, wir können zum Beispiel $cd Desktop eingeben und springen dann zum Desktop
+
 (Quelle: https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html)
 
 
