@@ -41,9 +41,11 @@ Hier folgen einige Befehle, die wichtig sind:
 # GIT
 ---
 
-Git dient zur Versionskontrolle. Mi diesem Punkt hatte ich in der Vergangenheit wohl am meisten Mühe. Denn das erlaubt es mehreren Personen gleichzeitig an einem Code zu arbeiten. Für die Arbetiswelt sicher super, wenn
+Git dient zur Versionskontrolle. Mi diesem Punkt hatte ich in der Vergangenheit wohl am meisten Mühe. Denn das erlaubt es mehreren Personen gleichzeitig an einem Code zu arbeiten. Für die Arbeitswelt sicher super, wenn
 man das Prinzip dahinter verstanden hat. 
 Github ist die Plattform, auf der ein Git-Repository hochgeladen werden kann. Der Vorteil von Git: man kann jede Veränderung nachvollziehen und so auch Fehler finden. Aber eben, ich finde die Verwendung sehr 
 kompliziert. Man muss Pushen, Committen, etc. Da hatte ich ehrlich gesagt den Faden verloren.
 
 (Quelle: https://pad.gwdg.de/Nj7bLYj_QHqaP9o29V0yGw)
+
+Diese Lerneinheit war für mich bedingt spannend, da ich einiges im Verlauf des Studiums bereits kennengelernt habe. Dennoch war es gut, dies noch einmal gehört zu haben.
