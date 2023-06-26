@@ -3,9 +3,6 @@ title: "Repository"
 date: 2023-05-05
 ---
 
-In dieser Lerneinheit ging es um einige Themen, die hier kurz angeschaut werden wollen.
-Gestartet hat alles mit dem Nachtrag zur Lerneinheit Archivsysteme. Aus diesem Grunde starte auch ich hier mit diesem Thema.
-
 # Nachtrag Lerneinheit Archivsysteme
 ---
 
@@ -47,11 +44,5 @@ handelt es sich im Normalfall um eine Zweitveröffentlichung. Das bedeutet, dass
 der Verlag direkt das Dokument als Open Access. Dieser Weg ist dann meist der schnellere Weg der Veröffentlichung.
 Die DSpace-Übung habe ich nicht 1:1 mitgemacht sondern lieber zugeschaut. Es war sehr spannend zuzuschauen.
 
-# Leranings
----
 
-Es ist super, dass man Daten importieren kann. Aber es ist wahnsinnig wichtig, dass dort sehr sorgfältig gearbeitet wird. Ich frage mich, ob ein Datenimport schlussendlich wirklich Zeit spart oder ob man nicht
-schneller ist, wenn man die Daten selbst eingibt. Denn ich habe das Gefühl, dass die Kontrolle eines Datenimports vielleicht so lange dauert, wie die Daten selbst zu erfassen (wenn man geübt ist) und da dort noch der Import hinzukommt, der ja auch Zeit in Anspruch nehmen kann, wäre man schneller, wenn man es selbst macht. Ich denke hierbei vor allem an das Katalogisieren von Medien. Ich habe diese Erfahrung in meinem Berufsleben schon
-gemacht. Ich lese eine ISBN von einem Buch ein, es erscheint eine bereits erstellte Aufnahme. Dort hat es aber so viele Fehler, die man anpassen muss. Ausserdem muss jede Zeile angeschaut werden, ob diese korrekt 
-verfasst ist oder nicht. Und da war ich irgendwann schneller, wenn ich die Aufnahme selbst erstellt habe. Ich hab da die Daten irgendwann gar nicht mehr übernommen. In einer wissenschaftlichen Bibliothek geht das 
-vielleicht nicht so einfach. Aber ich frage mich wirklich, ob der Datenimport wirklich effizienter ist.
+
