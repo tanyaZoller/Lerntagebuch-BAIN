@@ -3,11 +3,6 @@ title: "Technische Grundlagen Teil 1"
 date: 2023-02-17
 ---
 
-Nach der Einführung ins Fach begann die Einführung in die Technischen Grundlagen der Bibliotheks- und Archivinformatik. Nun wurde es konkreter.  
-Zuerst erschien das Schaubild zu den Lerninhalten. Mein erster Gedanke war: was? Das werde ich doch nie verstehen. Denn auf dem Schaubild standen lauter 
-Begriffe und Bezeichnungne, welche mir absolut nichts sagten.
-<br>
-
 # Schaubild  
 ---
 <br>
@@ -37,8 +32,7 @@ dem Tutorial.
 Da mich das Thema aber interessierte, beschloss ich, das Tutorial noch einmal durchzuspielen. Während ich das tat, erstellte ich in einem separaten Dokument eine 
 kurze Anleitung, welche Befehle was genau taten. Da mir das aber irgendwie immernoch nicht reichte, recherchierte ich im Netz nach weiteren Anleitugen und 
 ergänzte meine Notizen damit. Vieles habe ich unter [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/) gefunden und herausgeschrieben. 
-Dort habe ich viel erfahren, was ich durch das Tutorial bereits wusste. Aber auch viel neues stand darin. Zum Beispiel kann mit einem Stern ein Wort in der
-Kursivschrift dargestellt werden. Sterne benötigt man aber auch zum Gendern. Im Markdown Guide steht die Lösung für das Problem: vor solche Zeichen kann ein 
+Im Markdown Guide steht die Lösung für das Problem: vor solche Zeichen kann ein 
 Backslash (\) gesetzt werden. Dies konnte ich hier im Blog gleich anwenden. Denn im Titel des unten aufgeführten Nachschlagewerks ist solch ein Fall zu finden.
 Aber auch in meinem Nachschlagewerk "IT-Handbuch für Fachinformatiker\*innen" von Sascha Kersken habe ich einiges gefunden. 
 
@@ -54,12 +48,3 @@ untergekommen. Ich stellte mir etwas kompliziertes vor, doch dem war nicht so. A
 Schritten erklärt. Da wir später an diesem Morgen noch Übungen durchführen und uns in eine Liste eintragen sollten, wenn diese abgeschlossen war, konnte ich 
 das Tool gerade auch etwas praktisch kennenlernen, was bei mir immer mehr Sinn ergibt als die reine Theorie.
 <br>
-
-# Meine Learnings bisher  
----
-<br>
-Ich habe versucht, die Tagebucheinträge optisch etwas schöner darzustellen. Dazu habe ich eine Trennlinie zwischen den Titeln und dem Text eingefügt. Das hat
-auch super funktioniert. Aber ich habe dann den Abstand zwischen der Trennlinie und dem Abschnitt darunter nicht hinbekommen. Also habe ich da etwas getrickts und
-auf den Befehl \<br> zurückgegriffen. Dieser fügt im HTML einen Break ein. Und das hat hier auch funktioniert.
-Ausserdem wollte ich das Schaubild, welches im Unterricht gezeigt wurde, einfügen. Das habe ich aber bis zum 18.2.23 leider noch nicht geschafft. Da bleibe ich
-aber definitiv dran.
