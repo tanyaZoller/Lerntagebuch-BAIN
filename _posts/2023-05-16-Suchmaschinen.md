@@ -3,12 +3,10 @@ title: "Suchmaschinen und Discovery"
 date: 2023-05-16
 ---
 
-In dieser Sitzung war das Thema Suchmaschinen und Discovery-Systeme. Ich war sehr gespannt, was wir heute besprechen würden.
-
 # VuFind und Solr
 ---
 <br>
-In einem ersten Teil ging es um VuFind. Zuerst wurde darüber gesprochen, wie VuFind installiert werden sollte und es gabe eine erste Einführung zum Thema.
+Zuerst wurde darüber gesprochen, wie VuFind installiert werden sollte und es gabe eine erste Einführung zum Thema.
 Jedoch gab es mit Github Probleme und aus diesem Grund wurde die Installation und gewisse Anwendungen abgewandelt oder gar ausgelassen.
 VuFind ist ein Bibliotheksressourcenportal, welches laut Webseite von und für Bibliotheken erstellt wurde. 
 Das System ist modular aufgebaut. Dadurch dass es Opensource ist, kann es für jeden Anwendungszweck optimiert werden. Dies finde ich eine super Sache, da jede Bibliothek andere Ansprüche und Wünsche an ein
