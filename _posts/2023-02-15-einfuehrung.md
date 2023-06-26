@@ -6,7 +6,7 @@ date: 2023-02-15
 Im nun letzten Semester zum Studiengang Informationswissenschaften an der FH Graubünden, besuche ich das Modul BAIN, oder auch: Bibliotheks- und Archivinformatik.
 In diesem Modul soll als Lernnachweis ein Lerntagebuch geführt werden. Dank des Lerntagebuchs sollen wir den Inhalt des Faches im Nachhinein reflektieren. Ich hoffe,
 auf diese Art und Weise die Inhalte besser behalten und dann im Arbeitsalltag vielleicht auch einmal einsetzen zu können.
-Ein mal etwas andere Art, was mich persönlich sehr freut. 
+Einmal etwas andere Art, was mich persönlich sehr freut. 
 Am 15. Februar 2023 fand dann der Einstieg in das Modul statt. Ich war gespannt, was mich erwarten würde, denn ich hatte mich vorher noch nicht wirklich mit dem Inhalt
 von Bain auseinandergesetzt. Somit liess ich mich völlig überraschen.
 
@@ -19,7 +19,7 @@ Bei der Vorstellungsrunde ging es unter anderem auch darum, zu sehen, wer welche
 # Beruflicher Werdegang
 ---
 <br>
-Angenfangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
+Angefangen hat mein beruflicher Werdegang mit der Lehre zur Informations- und Dokumentationsassistentin in der Kantonsbibliothek BL in Liestal und arbeitete mit
 dem Programm Sisis-Sunrise. 
 Nach der Lehre zog es mich weiter an das Gymnasium Muttenz. Dort sprang ich für die Mitarbeiterinnen ein, welche länger eine Abwesenheit hatten.
 Nach fast drei Jahren ging ich dann an das Bildungszentrum Gesundheit, wo ich auch zum ersten Mal mit Aleph in Kontakt kam. Ich lernte dort die Katalogisierung nach
@@ -53,7 +53,7 @@ Herausforderungen.
 ---  
 <br>
 Ich kannte bisher jedoch nur die "Anwenderseite" von Bibliothekssystemen. 
-Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, wenn eine Suchabfrage eingegegeben wird, wusste ich noch nicht.
+Wie diese Systeme im Hintergrund funktionieren und was zum Beispiel geschieht, wenn eine Suchabfrage eingegeben wird, wusste ich noch nicht.
 Ich hoffe, mit dem Modul auch einen Einblick hinter die Kulisse von den Bibliothekssystemen zu bekommen. Mich interessieren vor allem die Bibliothekssysteme, 
 da ich zur Zeit auch in einer Bibliothek arbeite. Vielleicht verstehe ich dann auch die Probleme, die Rapido den Alma-Anwendern beschert etwas besser.
 <br>  
