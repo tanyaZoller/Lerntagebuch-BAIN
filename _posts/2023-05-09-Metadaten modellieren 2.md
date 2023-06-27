@@ -10,8 +10,8 @@ hatten. Aber das würde ich in diesem Blogbeitrag gerne noch tun.
 # OAI-PMH 
 ---
 <br>
-OAI-PMH bedeutet Open Archives Initative Protocol for Metadata Harvesting. 
-Das Protokoll legt fest, wie Metadaten strukturier und dann für die Aufnahme durch externe Dienste, wie das Internet, dargestellt werden sollen. Kodiert sind die Metadaten im XML-Format, die Datensätze werden über 
+OAI-PMH bedeutet Open Archives Initiative Protocol for Metadata Harvesting. 
+Das Protokoll legt fest, wie Metadaten strukturiert und dann für die Aufnahme durch externe Dienste, wie das Internet, dargestellt werden sollen. Kodiert sind die Metadaten im XML-Format, die Datensätze werden über 
 HTTP-Anfragen abgerufen. Die Gliederung eines solchen Datensatzes sieht wie folgt aus:
 * Header:
   * eindeutige Bezeichner
@@ -21,7 +21,7 @@ HTTP-Anfragen abgerufen. Die Gliederung eines solchen Datensatzes sieht wie folg
   * Satz von Metadaten
   * oft in Dublin Core
 * About:
-  * Optionale Angaben zu Rechten, Herkunft und andere Verwendugnszwecke
+  * Optionale Angaben zu Rechten, Herkunft und andere Verwendungszwecke
 
 Für bibliografische Daten von Bibliotheken wird eine besondere Form des OAI-PMH verwendet: das OAI-DC (Dublin Core)-Metadatenschema. Bibliotheken verwenden diesen Typ, um zu Erschliessen aber auch für das Harvesting.
 Das Harvesting findet über GET oder POST-Anfragen statt. Jede dieser Anfragen enthält:
@@ -66,7 +66,7 @@ Es werden bei der Transformation noch weitere Schritte notwendig, welche hier ni
 **Laden**
 <br>
 Bei diesem Schritt werden die vereinheitlichten Daten in das Zielsystem überführt. Daten, welche den vorherigen Transformationsschritt nicht erfolgreich abgeschlossen haben, dürfen nicht in ein produktives System 
-überführt werden. Beim Schritt des Ladens muss jedoch darauf geachtet werden, dass das laufende System nicht ausfällt, während die neuen Daten eingespeist werden. Das würde ja sonst bedeuten, dass Swisscovery jedes mal 
+überführt werden. Beim Schritt des Ladens muss jedoch darauf geachtet werden, dass das laufende System nicht ausfällt, während die neuen Daten eingespeist werden. Das würde ja sonst bedeuten, dass Swisscovery jedes Mal 
 bei der Einspeisung neuer Daten nicht genutzt werden könnte.
 
 
