@@ -7,7 +7,7 @@ An dem Termin, bei dem es um die Funktion und den Aufbau von Bibliothekssystemen
 Danach ging es dann um ChatGPT und wie dieser vielleicht einige Aufgaben beim Datenimport und beim Katalogisieren übernehmen könnte. Da ich mich mit ChatGPT
 so absolut noch nicht auseinandergesetzt habe, werde ich in diesem Artikel mal etwas genauer darauf eingehen. Ich werde mich aber mehrheitlich damit auseinandersetzen,
 was ChatGPT überhaupt ist.
-Was ich hier auch anschauen werde ist die Schnittstelle zu Z39.50. Das Z39.50 ist mir in meienr beruflichen Laufbahn immer wieder vor die Nase geflogen, ich hab
+Was ich hier auch anschauen werde, ist die Schnittstelle zu Z39.50. Das Z39.50 ist mir in meiner beruflichen Laufbahn immer wieder vor die Nase geflogen, ich hab
 aber nie wirklich genauer hingeschaut, worum es sich dabei handelt. Das möchte ich in diesem Blogbeitrag ändern. Da ich aber nur eine begrenzet Zahl an Zeichen zur Verfügung habe,
 heisst das auch, dass ich auf den Unterricht und dessen Inhalt nur wenig bis gar nicht eingehen werde.
 <br>
@@ -20,7 +20,7 @@ auch nie die Zeit fand. Heute soll sich das ändern. Beginnen wir von vorne.
 
 **Was ist ChatGPT und wie funktioniert es?**
 <br>
-ChatGPT wurde von OpenAI entwickelt und ist ein sogenannter Chatbot. Dieser soll Fragen beantworten, Aufsätze schreiben aber auch programmieren. Das besondere ist,
+ChatGPT wurde von OpenAI entwickelt und ist ein sogenannter Chatbot. Dieser soll Fragen beantworten, Aufsätze schreiben aber auch programmieren. Das Besondere ist,
 dass ChatGPT frei zugänglich ist.
 Damit der Chatbot Antworten liefern kann, muss er trainiert werden. Dazu hat OpenAI menschliche KI-Trainer Gespräche geliefert, bei denen sie sowohl den Benutzer aber
 auch den KI-Assistenten spielten. Diese erfassten Daten wurden mit den Daten gemischt, welche beim Geschwistermodell InstructGPT erfasst wurden. 
@@ -40,7 +40,7 @@ die FHGR damit um? Ich würde sagen: es bleibt spannend. Und ich werde mich sich
 # Netzwerkprotokoll Z39.50
 ---
 <br>
-Die Informationen zu Z30.50 habe ich aus Wikipedia. Das ist vielleicht nicht die beste Quelle, aber ich habe so irgendwie gar nicht viel anderes gefunden, das ich 
+Die Informationen zu Z30.50 habe ich aus Wikipedia. Das ist vielleicht nicht die beste Quelle, aber ich habe so irgendwie gar nicht viel anderes gefunden, dass ich 
 hier nennen könnte.
 Also: Z39.50 kommt im Bibliothekswesen zum Einsatz und ist ein Netzwerkprotokoll, welches Sitzungen zwischen Z39.50 Clients und -Servern generiert. Dadurch können Abfragen
 stattfinden. Z39.50 kommt aber auch bei Literaturverwaltungsprogrammen wie EndNote und so wie ich gelesen habe auch Citavi zum Einsatz. 
